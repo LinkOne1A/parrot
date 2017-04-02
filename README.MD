@@ -1,3 +1,5 @@
+# Fork from sotelo/parrot
+
 # Speech synthesis using recurrent neural networks.
 
 This repo has the code for our ICLR submission:
